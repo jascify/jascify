@@ -100,72 +100,43 @@ Writing test cases, tracking bugs, and ensuring software is reliable end-to-end.
 
 <br/>
 
-**· Languages ·**
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-4a5e22?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4a5e22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-4a5e22?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-4a5e22?style=flat-square&logo=csharp&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-4a5e22?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4a5e22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-4a5e22?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-4a5e22?style=for-the-badge&logo=csharp&logoColor=white)
+**Databases** &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4a5e22?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4a5e22?style=flat-square&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4a5e22?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-<br/>
+**Web Dev** &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-4a5e22?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4a5e22?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-4a5e22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind-4a5e22?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4a5e22?style=flat-square&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-4a5e22?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-4a5e22?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
-**· Databases ·**
+**Data & Design** &nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-4a5e22?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-4a5e22?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-4a5e22?style=flat-square&logo=microsoftexcel&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-4a5e22?style=flat-square&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-4a5e22?style=flat-square&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-4a5e22?style=flat-square&logo=python&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-4a5e22?style=flat-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-4a5e22?style=flat-square&logo=figma&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4a5e22?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4a5e22?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4a5e22?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-<br/>
-
-**· Web Development ·**
-
-![HTML5](https://img.shields.io/badge/HTML5-4a5e22?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4a5e22?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4a5e22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind-4a5e22?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-4a5e22?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-4a5e22?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-
-<br/>
-
-**· Data & Design ·**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-4a5e22?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-4a5e22?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-4a5e22?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-4a5e22?style=for-the-badge&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-4a5e22?style=for-the-badge&logo=numpy&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-4a5e22?style=for-the-badge&logo=python&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-4a5e22?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-4a5e22?style=for-the-badge&logo=figma&logoColor=white)
-
-<br/>
-
-**· Dev Tools & Deployment ·**
-
-![Git](https://img.shields.io/badge/Git-4a5e22?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4a5e22?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-4a5e22?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-4a5e22?style=for-the-badge&logo=render&logoColor=white)
+**Tools & Deploy** &nbsp;
+![Git](https://img.shields.io/badge/Git-4a5e22?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4a5e22?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-4a5e22?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-4a5e22?style=flat-square&logo=render&logoColor=white)
 
 </div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌱 Currently Growing
-
-</div>
-
-```python
-skills_in_progress = {
-    "Data":     ["matplotlib", "seaborn", "Advanced Excel"],
-    "Frontend": ["React JS", "React Native", "Tailwind CSS", "Bootstrap"]
-}
-```
 
 <br/>
 
