@@ -4,55 +4,11 @@
 
 </div>
 
-
----
+<br/>
 
 <div align="center">
 
-## ✦ What I Do
-
-</div>
-
-<br/>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 📊 Data Analysis
-*"Let the data speak."*
-
-Cleaning, exploring, and visualizing data to find the story behind the numbers.
-
-</td>
-<td width="2%"></td>
-<td width="33%" align="center" valign="top">
-
-### 🎨 Web & Mobile Development
-*"Details make the design."*
-
-Building responsive, clean, and accessible interfaces for users.
-
-</td>
-<td width="2%"></td>
-<td width="33%" align="center" valign="top">
-
-### 🔍 Quality Assurance
-*"Break it before users do."*
-
-Writing test cases, tracking bugs, and ensuring software is reliable end-to-end.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌿 Full Tech Stack
+## ✦ Full Tech Stack
 
 <br/>
 
@@ -104,8 +60,6 @@ Writing test cases, tracking bugs, and ensuring software is reliable end-to-end.
 
 <br/>
 
----
-
 <div align="center">
 
 ## 🌿 GitHub Stats
@@ -115,8 +69,6 @@ Writing test cases, tracking bugs, and ensuring software is reliable end-to-end.
 </div>
 
 <br/>
-
----
 
 <div align="center">
 
