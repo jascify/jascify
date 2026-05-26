@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/Java-4a5e22?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-4a5e22?style=flat-square&logo=csharp&logoColor=white)
 
-**Frameworks, Libraries & APIs** &nbsp;
+**Frameworks & Libraries** &nbsp;
 ![React](https://img.shields.io/badge/React-4a5e22?style=flat-square&logo=react&logoColor=61DAFB)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-4a5e22?style=flat-square&logo=dotnet&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4a5e22?style=flat-square&logo=tailwindcss&logoColor=white)
