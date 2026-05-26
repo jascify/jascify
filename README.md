@@ -24,7 +24,6 @@
 **Frameworks, Libraries & APIs** &nbsp;
 ![React](https://img.shields.io/badge/React-4a5e22?style=flat-square&logo=react&logoColor=61DAFB)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-4a5e22?style=flat-square&logo=dotnet&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-4a5e22?style=flat-square&logo=fastapi&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4a5e22?style=flat-square&logo=tailwindcss&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-4a5e22?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -35,8 +34,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-4a5e22?style=flat-square&logo=sqlite&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4a5e22?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-4a5e22?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-4a5e22?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![Convex](https://img.shields.io/badge/Convex-4a5e22?style=flat-square&logo=convex&logoColor=white)
 
 **Data Cleaning & Visualization** &nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-4a5e22?style=flat-square&logo=powerbi&logoColor=F2C811)
