@@ -4,28 +4,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/🌿%20IT%20Student-f5f0e8?style=flat-square&labelColor=4a5e22&color=4a5e22)
-&nbsp;
-![](https://img.shields.io/badge/📍%20Philippines-f5f0e8?style=flat-square&labelColor=4a5e22&color=4a5e22)
-&nbsp;
-![](https://img.shields.io/badge/✨%20Open%20to%20Internship-dde8b0?style=flat-square&labelColor=6b7c2f&color=6b7c2f)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*Hi! I'm Jasmine — I find joy in turning raw data into stories,*
-*creating interfaces that feel just right, and making sure software doesn't break.*
-
-</div>
-
-<br/>
 
 ---
 
@@ -46,31 +24,14 @@
 
 Cleaning, exploring, and visualizing data to find the story behind the numbers.
 
-![Python](https://img.shields.io/badge/Python-3d4a1e?style=flat-square&logo=python&logoColor=dde8b0)
-![Power BI](https://img.shields.io/badge/Power%20BI-3d4a1e?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-3d4a1e?style=flat-square&logo=tableau&logoColor=dde8b0)
-![MySQL](https://img.shields.io/badge/MySQL-3d4a1e?style=flat-square&logo=mysql&logoColor=dde8b0)
-![Excel](https://img.shields.io/badge/Excel-3d4a1e?style=flat-square&logo=microsoftexcel&logoColor=6BCB77)
-![pandas](https://img.shields.io/badge/pandas-3d4a1e?style=flat-square&logo=pandas&logoColor=dde8b0)
-![numpy](https://img.shields.io/badge/numpy-3d4a1e?style=flat-square&logo=numpy&logoColor=dde8b0)
-![matplotlib](https://img.shields.io/badge/matplotlib-3d4a1e?style=flat-square&logo=python&logoColor=dde8b0)
-![seaborn](https://img.shields.io/badge/seaborn-3d4a1e?style=flat-square&logo=python&logoColor=dde8b0)
-
 </td>
 <td width="2%"></td>
 <td width="33%" align="center" valign="top">
 
-### 🎨 Web Development
+### 🎨 Web & Mobile Development
 *"Details make the design."*
 
 Building responsive, clean, and accessible interfaces for users.
-
-![HTML5](https://img.shields.io/badge/HTML5-3d4a1e?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-3d4a1e?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JS-3d4a1e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Firebase](https://img.shields.io/badge/Firebase-3d4a1e?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-3d4a1e?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![Figma](https://img.shields.io/badge/Figma-3d4a1e?style=flat-square&logo=figma&logoColor=F24E1E)
 
 </td>
 <td width="2%"></td>
@@ -80,11 +41,6 @@ Building responsive, clean, and accessible interfaces for users.
 *"Break it before users do."*
 
 Writing test cases, tracking bugs, and ensuring software is reliable end-to-end.
-
-![Testing](https://img.shields.io/badge/Manual%20Testing-3d4a1e?style=flat-square&logo=checkmarx&logoColor=dde8b0)
-![Bug Tracking](https://img.shields.io/badge/Bug%20Tracking-3d4a1e?style=flat-square&logo=jira&logoColor=dde8b0)
-![Git](https://img.shields.io/badge/Git-3d4a1e?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-3d4a1e?style=flat-square&logo=github&logoColor=dde8b0)
 
 </td>
 </tr>
@@ -100,39 +56,47 @@ Writing test cases, tracking bugs, and ensuring software is reliable end-to-end.
 
 <br/>
 
-**Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-4a5e22?style=flat-square&logo=python&logoColor=white)
+**Core Languages** &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-4a5e22?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4a5e22?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4a5e22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-4a5e22?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4a5e22?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-4a5e22?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-4a5e22?style=flat-square&logo=csharp&logoColor=white)
 
-**Databases** &nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4a5e22?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4a5e22?style=flat-square&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4a5e22?style=flat-square&logo=firebase&logoColor=FFCA28)
-
-**Web Dev** &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-4a5e22?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4a5e22?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-4a5e22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+**Frameworks, Libraries & APIs** &nbsp;
+![React](https://img.shields.io/badge/React-4a5e22?style=flat-square&logo=react&logoColor=61DAFB)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-4a5e22?style=flat-square&logo=dotnet&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-4a5e22?style=flat-square&logo=fastapi&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4a5e22?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4a5e22?style=flat-square&logo=bootstrap&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-4a5e22?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases & Cloud** &nbsp;
+![SQL](https://img.shields.io/badge/SQL-4a5e22?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4a5e22?style=flat-square&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-4a5e22?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4a5e22?style=flat-square&logo=sqlite&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4a5e22?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-4a5e22?style=flat-square&logo=firebase&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/Supabase-4a5e22?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Convex](https://img.shields.io/badge/Convex-4a5e22?style=flat-square&logo=convex&logoColor=white)
 
-**Data & Design** &nbsp;
+**Data Cleaning & Visualization** &nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-4a5e22?style=flat-square&logo=powerbi&logoColor=F2C811)
 ![Tableau](https://img.shields.io/badge/Tableau-4a5e22?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-4a5e22?style=flat-square&logo=microsoftexcel&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-4a5e22?style=flat-square&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-4a5e22?style=flat-square&logo=numpy&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-4a5e22?style=flat-square&logo=python&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-4a5e22?style=flat-square&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-4a5e22?style=flat-square&logo=figma&logoColor=white)
+![Excel](https://img.shields.io/badge/MS%20Excel-4a5e22?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4a5e22?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4a5e22?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4a5e22?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4a5e22?style=flat-square&logo=python&logoColor=white)
 
-**Tools & Deploy** &nbsp;
+**Version Control** &nbsp;
 ![Git](https://img.shields.io/badge/Git-4a5e22?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-4a5e22?style=flat-square&logo=github&logoColor=white)
+
+**Tools & Deploy** &nbsp;
+![Figma](https://img.shields.io/badge/Figma-4a5e22?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-4a5e22?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-4a5e22?style=flat-square&logo=render&logoColor=white)
 
@@ -160,7 +124,7 @@ Writing test cases, tracking bugs, and ensuring software is reliable end-to-end.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/aguilar.jasminemiel%40gmail.com-4a5e22?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguilar.jasminemiel@gmail.com)
+<a href="mailto:aguilar.jasminemiel@gmail.com"><img src="https://img.shields.io/badge/Gmail-4a5e22?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; <a href="https://linkedin.com/in/jasmine-miel-aguilar/"><img src="https://img.shields.io/badge/LinkedIn-4a5e22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/>
 
