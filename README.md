@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## ✦ Full Tech Stack
+## Full Tech Stack
 
 <br/>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-## 🌿 GitHub Stats
+## GitHub Stats
 
 <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=jascify&hide_border=true&background=f5f2eb&stroke=7a8c3a&ring=4a5e22&fire=a0b830&currStreakLabel=4a5e22&sideLabels=6b7c2f&dates=8a8a7a&currStreakNum=3d3d2e&sideNums=3d3d2e" />
 
