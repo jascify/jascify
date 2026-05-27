@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d4a1e,100:7a8c3a&height=70&text=✦%20Aspiring%20Front-End%20Developer%20·%20Data%20Analyst%20·%20QA%20Tester%20✦&fontSize=14&fontColor=dde8b0&fontAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d4a1e,100:7a8c3a&height=130&text=✦%20Aspiring%20Front-End%20Developer%20·%20Data%20Analyst%20·%20QA%20Tester%20✦&fontSize=14&fontColor=dde8b0&fontAlignY=50" />
 
 </div>
 
@@ -68,14 +68,6 @@
 <br/>
 
 <div align="center">
-
-## 🌸 Let's Connect
-
-<br/>
-
-<a href="mailto:aguilar.jasminemiel@gmail.com"><img src="https://img.shields.io/badge/Gmail-4a5e22?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; <a href="https://linkedin.com/in/jasmine-miel-aguilar/"><img src="https://img.shields.io/badge/LinkedIn-4a5e22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br/>
 
 *Open to internship opportunities in Data Analysis, Front-End Development, or QA.*
 *Based in the Philippines 🇵🇭*
