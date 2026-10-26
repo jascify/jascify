@@ -1,9 +1,7 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2d3a22,100:4a5e22&height=130&text=✦%20Aspiring%20Front-End%20Developer%20·%20Data%20Analyst%20·%20QA%20Tester%20✦&fontSize=14&fontColor=c3d66b&fontAlignY=50">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:a8c973,100:5b7226&height=130&text=✦%20Aspiring%20Front-End%20Developer%20·%20Data%20Analyst%20·%20QA%20Tester%20✦&fontSize=14&fontColor=2c3614&fontAlignY=50">
-    <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d4a1e,100:7a8c3a&height=130&text=✦%20Aspiring%20Front-End%20Developer%20·%20Data%20Analyst%20·%20QA%20Tester%20✦&fontSize=14&fontColor=dde8b0&fontAlignY=50" />
-  </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d4a1e,100:7a8c3a&height=130&text=✦%20Aspiring%20Front-End%20Developer%20·%20Data%20Analyst%20·%20QA%20Tester%20✦&fontSize=14&fontColor=dde8b0&fontAlignY=50" />
+
 </div>
 
 <br/>
@@ -63,12 +61,7 @@
 
 ## GitHub Stats
 
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jascify&hide_border=true&background=1a2315&stroke=7a8c3a&ring=a0b830&fire=c3d66b&currStreakLabel=e2e8c8&sideLabels=c3d66b&dates=9ca874&currStreakNum=e2e8c8&sideNums=e2e8c8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jascify&hide_border=true&background=f5f2eb&stroke=7a8c3a&ring=4a5e22&fire=a0b830&currStreakLabel=4a5e22&sideLabels=6b7c2f&dates=8a8a7a&currStreakNum=3d3d2e&sideNums=3d3d2e">
-    <img alt="GitHub streak for jascify" src="https://github-readme-streak-stats.herokuapp.com/?user=jascify&hide_border=true&background=f5f2eb&stroke=7a8c3a&ring=4a5e22&fire=a0b830&currStreakLabel=4a5e22&sideLabels=6b7c2f&dates=8a8a7a&currStreakNum=3d3d2e&sideNums=3d3d2e" />
-  </picture>
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=jascify&hide_border=true&background=f5f2eb&stroke=7a8c3a&ring=4a5e22&fire=a0b830&currStreakLabel=4a5e22&sideLabels=6b7c2f&dates=8a8a7a&currStreakNum=3d3d2e&sideNums=3d3d2e" />
 
 </div>
 
@@ -76,7 +69,7 @@
 
 <div align="center">
 
-*Open to opportunities in Data Analysis, Front-End Development, or QA.*<br/>
+*Open to opportunities in Data Analysis, Front-End Development, or QA.*
 *Based in the Philippines 🇵🇭*
 
 </div>
@@ -84,9 +77,5 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2d3a22,100:4a5e22&height=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:a8c973,100:5b7226&height=6">
-    <img width="100%" alt="Footer divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d4a1e,100:7a8c3a&height=6" />
-  </picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d4a1e,100:7a8c3a&height=6" />
 </div>
